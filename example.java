@@ -1,1 +1,3 @@
-This is my first example
+This is my first PROJECT.
+Assignment for tek dojo class.
+  
